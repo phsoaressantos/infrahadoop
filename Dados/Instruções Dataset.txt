@@ -1,3 +1,12 @@
 Dados Originais Kaggle:
 
+1 tabela (exportacao): https://www.kaggle.com/datasets/marcelopesse/brazil-exportimport-information?select=EXP_COMPLETA.csv *1
+
+2 tabela (pais): https://www.kaggle.com/datasets/marcelopesse/brazil-exportimport-information?select=PAIS.csv
+
 Extraido da tabela exportacao ate linha 1.048.576 no arquivo baixado EXP_COMPLETA disponivel no KAGGLE.
+
+Tabelas ja reduzidas disponiveis no meu google drive:
+
+https://drive.google.com/drive/folders/1LBdup9q0BEweXHPgQkpP8LWXMF7woTg9?usp=sharing
+
