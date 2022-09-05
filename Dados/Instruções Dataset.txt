@@ -1,0 +1,3 @@
+Dados Originais Kaggle:
+
+Extraido da tabela exportacao ate linha 1.048.576 no arquivo baixado EXP_COMPLETA disponivel no KAGGLE.
